@@ -7,6 +7,7 @@ This is my resume that got me offers from Samsung and Adobe and finally decided 
 - Please view the PDF version first to get an idea on how a good resume should look like.
 - Download the docx file and edit it on Google Docs/Word to make your own resume.
 - Star and share this repository if you find it helpful.
+- (Note: Click on "View Code" to view the resume files in case you don't find them)
 
 ## Some Important points to note
 ### Overall resume
